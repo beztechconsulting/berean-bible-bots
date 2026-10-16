@@ -445,7 +445,7 @@ def _run_ai_review(diff: str, title: str, description: str, model: str) -> dict[
         lambda: client.messages.create(
             model=model,
             max_tokens=8192,
-            thinking={"type": "disabled"},
+            output_config={"effort": "low"},
             messages=messages,
         ),
         "messages.create",
