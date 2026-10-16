@@ -23,6 +23,9 @@ coverage-full.json
 # Claude Code agent worktrees
 .claude/worktrees/
 
+# Archify diagram scratch folder (generated HTML committed to docs/diagrams/ instead)
+.archify/
+
 # Output — exports are regenerated; charts are committed alongside reports
 output/exports/
 output/studies/
