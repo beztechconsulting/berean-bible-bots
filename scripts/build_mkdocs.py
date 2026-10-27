@@ -163,7 +163,7 @@ Subsequent cells run normally once the setup cell completes \
 To execute notebooks on your own machine:
 
 ```bash
-git clone https://github.com/dnovick/berean-bible-bots.git
+git clone https://github.com/beztechconsulting/berean-bible-bots.git
 cd berean-bible-bots
 python -m venv .venv && source .venv/bin/activate
 pip install -r notebook-setup/requirements.txt

@@ -10,7 +10,7 @@ SITE_DESC = (
 )
 OG_IMAGE = f"{SITE_URL}/assets/logo.png"
 
-GITHUB_REPO = "dnovick/berean-bible-bots"
+GITHUB_REPO = "beztechconsulting/berean-bible-bots"
 COLAB_BASE = f"https://colab.research.google.com/github/{GITHUB_REPO}/blob/main/"
 COLAB_BADGE_IMG = "https://colab.research.google.com/assets/colab-badge.svg"
 

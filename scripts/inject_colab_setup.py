@@ -26,7 +26,7 @@ if IN_COLAB:
     if not os.path.isdir("/content/berean-bible-bots"):
         subprocess.run(
             ["git", "clone", "--depth", "1",
-             "https://github.com/dnovick/berean-bible-bots.git",
+             "https://github.com/beztechconsulting/berean-bible-bots.git",
              "/content/berean-bible-bots"],
             check=True,
         )

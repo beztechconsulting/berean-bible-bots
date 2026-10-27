@@ -36,7 +36,7 @@ from typing import Any, Callable, TypeVar
 import anthropic
 import requests
 
-REPO = "dnovick/berean-bible-bots"
+REPO = "beztechconsulting/berean-bible-bots"
 STATUS_CONTEXT = "claude-review"
 MAX_DIFF_CHARS = 500_000
 GITHUB_API = "https://api.github.com"
