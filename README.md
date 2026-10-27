@@ -11,7 +11,7 @@
 > experimental project and is actively being developed. You may encounter errors, incomplete
 > content, inaccurate linguistic analysis, or other rough edges.
 >
-> Feedback and bug reports are welcome — please [open a GitHub issue](https://github.com/dnovick/berean-bible-bots/issues).
+> Feedback and bug reports are welcome — please [open a GitHub issue](https://github.com/beztechconsulting/berean-bible-bots/issues).
 
 ---
 
@@ -52,7 +52,7 @@ Jupyter notebooks runnable on Google Colab.
 
 ```bash
 # 1. Clone with submodules
-git clone --recurse-submodules https://github.com/dnovick/berean-bible-bots.git
+git clone --recurse-submodules https://github.com/beztechconsulting/berean-bible-bots.git
 cd berean-bible-bots
 
 # 2. One-command setup — creates a virtual environment, installs all dependencies,

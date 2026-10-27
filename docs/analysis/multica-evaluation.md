@@ -1,7 +1,7 @@
 # Multica Evaluation
 
 **Status:** In progress  
-**GitHub Issue:** [#584 — Evaluate Multica as issue tracker and agent orchestration platform](https://github.com/dnovick/berean-bible-bots/issues/584)  
+**GitHub Issue:** [#584 — Evaluate Multica as issue tracker and agent orchestration platform](https://github.com/beztechconsulting/berean-bible-bots/issues/584)  
 **Audience:** David Novick, Mark (BTP)  
 **Last updated:** 2026-09-10
 
@@ -63,7 +63,7 @@ All 28 open GitHub issues were migrated to Multica as BERE-1 through BERE-28. Ea
 ❌ **Not supported.** Multica requires workspace membership. Anyone reporting a bug must be invited to the workspace first. This is a regression vs. GitHub Issues, which allows any GitHub user to file an issue. For a project that might accept community contributions or bug reports, this is a real limitation.
 
 ### GitHub integration
-🔲 **Not yet tested.** See [GH#586](https://github.com/dnovick/berean-bible-bots/issues/586).
+🔲 **Not yet tested.** See [GH#586](https://github.com/beztechconsulting/berean-bible-bots/issues/586).
 
 ---
 
@@ -147,10 +147,10 @@ Mika's role becomes more valuable as a "pre-flight" step — she can review an i
 The bigger consideration is ongoing workflow: once migrated, do you work in GitHub Issues or Multica? Running both in parallel creates drift.
 
 ### Mark's Linear → Multica
-🔲 **Not yet assessed.** See [GH#585](https://github.com/dnovick/berean-bible-bots/issues/585).
+🔲 **Not yet assessed.** See [GH#585](https://github.com/beztechconsulting/berean-bible-bots/issues/585).
 
 ### Linear export → Multica import path
-🔲 **Not yet assessed.** See [GH#585](https://github.com/dnovick/berean-bible-bots/issues/585).
+🔲 **Not yet assessed.** See [GH#585](https://github.com/beztechconsulting/berean-bible-bots/issues/585).
 
 ---
 
