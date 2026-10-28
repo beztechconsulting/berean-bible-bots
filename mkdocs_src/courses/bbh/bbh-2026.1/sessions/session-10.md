@@ -1,7 +1,7 @@
 # Session 10 — Review — BBH Ch4–7
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
-**Date:** Nov 26, 2026  
+**Date:** Jan 7, 2027  
 **Instructor:** Preston Brown  
 
 ## Agenda

@@ -1,7 +1,7 @@
 # Session 23 — BBH 18 — Qal Imperative
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
-**Date:** May 27, 2027  
+**Date:** Jul 8, 2027  
 **Instructor:** Preston Brown  
 
 ## Agenda

@@ -1,7 +1,7 @@
 # Session 22 — BBH 17 — Waw-Consecutive
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
-**Date:** May 13, 2027  
+**Date:** Jun 24, 2027  
 **Instructor:** Preston Brown  
 
 ## Agenda

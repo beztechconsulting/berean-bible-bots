@@ -1,7 +1,7 @@
 # Session 9 — BBH 7 — Hebrew Adjectives
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
-**Date:** Nov 12, 2026  
+**Date:** Dec 24, 2026  
 **Instructor:** Preston Brown  
 
 ## Agenda

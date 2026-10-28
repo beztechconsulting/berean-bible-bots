@@ -1,7 +1,7 @@
 # Session 19 — BBH 15 — Qal Imperfect Strong Verbs
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
-**Date:** Apr 1, 2027  
+**Date:** May 13, 2027  
 **Instructor:** Preston Brown  
 
 ## Agenda

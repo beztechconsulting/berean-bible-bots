@@ -1,7 +1,7 @@
 # Session 17 — BBH 13 — Qal Perfect Strong Verbs
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
-**Date:** Mar 4, 2027  
+**Date:** Apr 15, 2027  
 **Instructor:** Preston Brown  
 
 ## Agenda
