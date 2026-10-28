@@ -1,7 +1,7 @@
 # Session 38 — BBH 30 — Piel Stem Strong Verbs
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
-**Date:** Dec 23, 2027  
+**Date:** Feb 3, 2028  
 **Instructor:** Preston Brown  
 
 ## Agenda

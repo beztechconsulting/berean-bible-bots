@@ -1,7 +1,7 @@
 # Session 6 — BBH 4 — Hebrew Nouns
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
-**Date:** Oct 1, 2026  
+**Date:** Nov 12, 2026  
 **Instructor:** Preston Brown  
 
 ## Agenda

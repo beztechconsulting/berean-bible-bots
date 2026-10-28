@@ -1,7 +1,7 @@
 # Session 18 — BBH 14 — Qal Perfect Weak Verbs
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
-**Date:** Mar 18, 2027  
+**Date:** Apr 29, 2027  
 **Instructor:** Preston Brown  
 
 ## Agenda

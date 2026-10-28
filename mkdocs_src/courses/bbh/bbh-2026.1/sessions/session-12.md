@@ -1,7 +1,7 @@
 # Session 12 — BBH 9 — Hebrew Pronominal Suffixes
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
-**Date:** Dec 24, 2026  
+**Date:** Feb 4, 2027  
 **Instructor:** Preston Brown  
 
 ## Agenda

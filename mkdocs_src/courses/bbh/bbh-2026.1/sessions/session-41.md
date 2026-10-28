@@ -1,7 +1,7 @@
 # Session 41 — BBH 33 — Pual Stem Weak Verbs
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
-**Date:** Feb 3, 2028  
+**Date:** Mar 16, 2028  
 **Instructor:** Preston Brown  
 
 ## Agenda

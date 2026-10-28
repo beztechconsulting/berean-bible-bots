@@ -1,7 +1,7 @@
 # Session 37 — Review — BBH Ch24–29
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
-**Date:** Dec 9, 2027  
+**Date:** Jan 20, 2028  
 **Instructor:** Preston Brown  
 
 ## Agenda

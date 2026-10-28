@@ -1,7 +1,7 @@
 # Session 32 — BBH 25 — Niphal Stem Weak Verbs
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
-**Date:** Sep 30, 2027  
+**Date:** Nov 11, 2027  
 **Instructor:** Preston Brown  
 
 ## Agenda
