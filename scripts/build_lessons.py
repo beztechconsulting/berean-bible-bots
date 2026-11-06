@@ -307,8 +307,9 @@ def _prepend_deck_download_header(content: str, stem: str) -> str:
     # as static files (mkdocs does not URL-rewrite links to non-.md assets)
     # — so the deck page must reach up one level to find them.
     dl_line = (
-        f"\n**Download:** [Anki import (.txt)](../{stem}.txt) · "
-        f"[Flashcards Deluxe (-fd.txt)](../{stem}-fd.txt)\n\n---\n\n"
+        f'\n**Download:** <a href="../{stem}.txt" download="{stem}.txt">Anki import (.txt)</a> · '
+        f'<a href="../{stem}-fd.txt" download="{stem}-fd.txt">Flashcards Deluxe (-fd.txt)</a>'
+        f"\n\n---\n\n"
     )
     rest = re.sub(r"^\s*---\s*\n+", "", content[h1_m.end():])
     return h1_m.group(0) + dl_line + rest
