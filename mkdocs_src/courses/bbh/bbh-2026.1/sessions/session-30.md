@@ -1,4 +1,4 @@
-# Session 30 — Review — BBH Ch20–23
+# Session 30 — BBH 23 — Sentence Syntax
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
 **Date:** Oct 14, 2027  
@@ -6,4 +6,5 @@
 
 ## Agenda
 
-1. [Review](session-30/review.md)
+1. Reading (TBD)
+1. [Lesson: BBH Chapter 23 — Sentence Syntax](/lessons/hebrew/ch23/)

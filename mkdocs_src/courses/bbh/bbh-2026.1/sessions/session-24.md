@@ -1,4 +1,4 @@
-# Session 24 — BBH 19 — Qal Pronominal Suffixes on Verbs
+# Session 24 — BBH 18 — Qal Imperative
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
 **Date:** Jul 22, 2027  
@@ -7,4 +7,4 @@
 ## Agenda
 
 1. Reading (TBD)
-1. [Lesson: BBH Chapter 19 — Qal Pronominal Suffixes on Verbs](/lessons/hebrew/ch19/)
+1. [Lesson: BBH Chapter 18 — Qal Imperative](/lessons/hebrew/ch18/)

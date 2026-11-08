@@ -1,4 +1,4 @@
-# Session 27 — BBH 21 — Qal Infinitive Absolute
+# Session 27 — BBH 20 — Qal Infinitive Construct
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
 **Date:** Sep 2, 2027  
@@ -7,4 +7,4 @@
 ## Agenda
 
 1. Reading (TBD)
-1. [Lesson: BBH Chapter 21 — Qal Infinitive Absolute](/lessons/hebrew/ch21/)
+1. [Lesson: BBH Chapter 20 — Qal Infinitive Construct](/lessons/hebrew/ch20/)

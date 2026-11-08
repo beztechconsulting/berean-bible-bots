@@ -1,15 +1,13 @@
 date: "2027-04-01"
-focus: "BBH 12 — Introduction to Hebrew Verbs"
-chapter: 12
+focus: "Review — BBH Ch8–11"
 instructor: "Preston Brown"
 
 agenda:
-  - title: "Reading (TBD)"
-
-lesson:
-  name: "BBH Chapter 12 — Introduction to Hebrew Verbs"
-  url: "/lessons/hebrew/ch12/"
+  - title: "Review"
 
 sections:
+  - heading: "Review"
+    content: |
+      *Placeholder — review content to be added.*
 
 notes: ""

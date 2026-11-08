@@ -1,4 +1,4 @@
-# Session 17 — BBH 13 — Qal Perfect Strong Verbs
+# Session 17 — BBH 12 — Introduction to Hebrew Verbs
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
 **Date:** Apr 15, 2027  
@@ -7,4 +7,4 @@
 ## Agenda
 
 1. Reading (TBD)
-1. [Lesson: BBH Chapter 13 — Qal Perfect Strong Verbs](/lessons/hebrew/ch13/)
+1. [Lesson: BBH Chapter 12 — Introduction to Hebrew Verbs](/lessons/hebrew/ch12/)

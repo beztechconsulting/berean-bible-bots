@@ -1,11 +1,9 @@
-# Session 45 — Introduction to the Hebrew Bible
+# Session 45 — Review — BBH Ch30–35
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
 **Date:** May 11, 2028  
 **Instructor:** Preston Brown  
 
-## Additional Info
+## Agenda
 
-| Topic |
-|---|
-| [Introduction to the Hebrew Bible](session-45/introduction-to-the-hebrew-bible.md) |
+1. [Review](session-45/review.md)

@@ -1,4 +1,4 @@
-# Session 44 — Review — BBH Ch30–35
+# Session 44 — BBH 35 — Hithpael Weak Verbs
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
 **Date:** Apr 27, 2028  
@@ -6,4 +6,5 @@
 
 ## Agenda
 
-1. [Review](session-44/review.md)
+1. Reading (TBD)
+1. [Lesson: BBH Chapter 35 — Hithpael Weak Verbs](/lessons/hebrew/ch35/)

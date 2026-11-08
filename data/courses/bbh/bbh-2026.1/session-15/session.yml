@@ -1,13 +1,17 @@
 date: "2027-03-18"
-focus: "Review — BBH Ch8–11"
+focus: "BBH 11 — Hebrew Numbers"
 instructor: "Preston Brown"
 
 agenda:
-  - title: "Review"
+  - title: "Reading (TBD)"
 
 sections:
-  - heading: "Review"
-    content: |
-      *Placeholder — review content to be added.*
+
+chapter: 11
+
+lesson:
+  name: "BBH Chapter 11 — Hebrew Numbers"
+  url: "/lessons/hebrew/ch11/"
+
 
 notes: ""

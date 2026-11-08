@@ -1,13 +1,17 @@
 date: "2027-10-14"
-focus: "Review — BBH Ch20–23"
+focus: "BBH 23 — Sentence Syntax"
 instructor: "Preston Brown"
 
 agenda:
-  - title: "Review"
+  - title: "Reading (TBD)"
 
 sections:
-  - heading: "Review"
-    content: |
-      *Placeholder — review content to be added.*
+
+chapter: 23
+
+lesson:
+  name: "BBH Chapter 23 — Sentence Syntax"
+  url: "/lessons/hebrew/ch23/"
+
 
 notes: ""

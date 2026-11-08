@@ -1,4 +1,4 @@
-# Session 25 — Review — BBH Ch17–19
+# Session 25 — BBH 19 — Qal Pronominal Suffixes on Verbs
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
 **Date:** Aug 5, 2027  
@@ -6,4 +6,5 @@
 
 ## Agenda
 
-1. [Review](session-25/review.md)
+1. Reading (TBD)
+1. [Lesson: BBH Chapter 19 — Qal Pronominal Suffixes on Verbs](/lessons/hebrew/ch19/)

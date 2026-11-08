@@ -1,4 +1,4 @@
-# Session 19 — BBH 15 — Qal Imperfect Strong Verbs
+# Session 19 — BBH 14 — Qal Perfect Weak Verbs
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
 **Date:** May 13, 2027  
@@ -7,4 +7,4 @@
 ## Agenda
 
 1. Reading (TBD)
-1. [Lesson: BBH Chapter 15 — Qal Imperfect Strong Verbs](/lessons/hebrew/ch15/)
+1. [Lesson: BBH Chapter 14 — Qal Perfect Weak Verbs](/lessons/hebrew/ch14/)

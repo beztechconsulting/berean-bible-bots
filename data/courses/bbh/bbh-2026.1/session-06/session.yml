@@ -1,14 +1,13 @@
 date: "2026-11-12"
-focus: "BBH 4 — Hebrew Nouns"
-chapter: 4
+focus: "Review — BBH Ch1–3"
 instructor: "Preston Brown"
 
 agenda:
-  - title: "Reading (TBD)"
-
-lesson:
-  name: "BBH Chapter 4 — Hebrew Nouns"
-  url: "/lessons/hebrew/ch4/"
+  - title: "Review — BBH Ch1: Hebrew Alphabet"
+  - title: "Review — BBH Ch2: Hebrew Vowels"
+  - title: "Review — BBH Ch3: Syllabification and Pronunciation"
+  - title: "Reading: Genesis 1:1–5"
+  - title: "Exercises"
 
 sections:
 

@@ -1,4 +1,4 @@
-# Session 23 — BBH 18 — Qal Imperative
+# Session 23 — BBH 17 — Waw-Consecutive
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
 **Date:** Jul 8, 2027  
@@ -7,4 +7,4 @@
 ## Agenda
 
 1. Reading (TBD)
-1. [Lesson: BBH Chapter 18 — Qal Imperative](/lessons/hebrew/ch18/)
+1. [Lesson: BBH Chapter 17 — Waw-Consecutive](/lessons/hebrew/ch17/)

@@ -1,4 +1,4 @@
-# Session 21 — Review — BBH Ch12–16
+# Session 21 — BBH 16 — Qal Imperfect Weak Verbs
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
 **Date:** Jun 10, 2027  
@@ -6,4 +6,5 @@
 
 ## Agenda
 
-1. [Review](session-21/review.md)
+1. Reading (TBD)
+1. [Lesson: BBH Chapter 16 — Qal Imperfect Weak Verbs](/lessons/hebrew/ch16/)

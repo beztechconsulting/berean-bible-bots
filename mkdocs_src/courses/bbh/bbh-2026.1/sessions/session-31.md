@@ -1,4 +1,4 @@
-# Session 31 — BBH 24 — Niphal Stem Strong Verbs
+# Session 31 — Review — BBH Ch20–23
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
 **Date:** Oct 28, 2027  
@@ -6,5 +6,4 @@
 
 ## Agenda
 
-1. Reading (TBD)
-1. [Lesson: BBH Chapter 24 — Niphal Stem Strong Verbs](/lessons/hebrew/ch24/)
+1. [Review](session-31/review.md)
