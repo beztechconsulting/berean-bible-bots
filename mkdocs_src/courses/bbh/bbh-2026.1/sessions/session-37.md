@@ -1,4 +1,4 @@
-# Session 37 — Review — BBH Ch24–29
+# Session 37 — BBH 29 — Hophal Stem Weak Verbs
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
 **Date:** Jan 20, 2028  
@@ -6,4 +6,5 @@
 
 ## Agenda
 
-1. [Review](session-37/review.md)
+1. Reading (TBD)
+1. [Lesson: BBH Chapter 29 — Hophal Stem Weak Verbs](/lessons/hebrew/ch29/)

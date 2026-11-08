@@ -1,4 +1,4 @@
-# Session 36 — BBH 29 — Hophal Stem Weak Verbs
+# Session 36 — BBH 28 — Hophal Stem Strong Verbs
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
 **Date:** Jan 6, 2028  
@@ -7,4 +7,4 @@
 ## Agenda
 
 1. Reading (TBD)
-1. [Lesson: BBH Chapter 29 — Hophal Stem Weak Verbs](/lessons/hebrew/ch29/)
+1. [Lesson: BBH Chapter 28 — Hophal Stem Strong Verbs](/lessons/hebrew/ch28/)

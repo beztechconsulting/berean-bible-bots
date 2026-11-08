@@ -1,4 +1,4 @@
-# Session 28 — BBH 22 — Qal Participle
+# Session 28 — BBH 21 — Qal Infinitive Absolute
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
 **Date:** Sep 16, 2027  
@@ -7,4 +7,4 @@
 ## Agenda
 
 1. Reading (TBD)
-1. [Lesson: BBH Chapter 22 — Qal Participle](/lessons/hebrew/ch22/)
+1. [Lesson: BBH Chapter 21 — Qal Infinitive Absolute](/lessons/hebrew/ch21/)

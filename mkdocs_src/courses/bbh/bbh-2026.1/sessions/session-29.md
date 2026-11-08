@@ -1,4 +1,4 @@
-# Session 29 — BBH 23 — Sentence Syntax
+# Session 29 — BBH 22 — Qal Participle
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
 **Date:** Sep 30, 2027  
@@ -7,4 +7,4 @@
 ## Agenda
 
 1. Reading (TBD)
-1. [Lesson: BBH Chapter 23 — Sentence Syntax](/lessons/hebrew/ch23/)
+1. [Lesson: BBH Chapter 22 — Qal Participle](/lessons/hebrew/ch22/)

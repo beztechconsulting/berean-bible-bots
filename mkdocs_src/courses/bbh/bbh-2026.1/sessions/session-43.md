@@ -1,4 +1,4 @@
-# Session 43 — BBH 35 — Hithpael Weak Verbs
+# Session 43 — BBH 34 — Hithpael Strong Verbs
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
 **Date:** Apr 13, 2028  
@@ -7,4 +7,4 @@
 ## Agenda
 
 1. Reading (TBD)
-1. [Lesson: BBH Chapter 35 — Hithpael Weak Verbs](/lessons/hebrew/ch35/)
+1. [Lesson: BBH Chapter 34 — Hithpael Strong Verbs](/lessons/hebrew/ch34/)

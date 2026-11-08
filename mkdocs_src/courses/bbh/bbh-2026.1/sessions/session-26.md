@@ -1,4 +1,4 @@
-# Session 26 — BBH 20 — Qal Infinitive Construct
+# Session 26 — Review — BBH Ch17–19
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
 **Date:** Aug 19, 2027  
@@ -6,5 +6,4 @@
 
 ## Agenda
 
-1. Reading (TBD)
-1. [Lesson: BBH Chapter 20 — Qal Infinitive Construct](/lessons/hebrew/ch20/)
+1. [Review](session-26/review.md)

@@ -1,4 +1,4 @@
-# Session 15 — Review — BBH Ch8–11
+# Session 15 — BBH 11 — Hebrew Numbers
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
 **Date:** Mar 18, 2027  
@@ -6,4 +6,5 @@
 
 ## Agenda
 
-1. [Review](session-15/review.md)
+1. Reading (TBD)
+1. [Lesson: BBH Chapter 11 — Hebrew Numbers](/lessons/hebrew/ch11/)

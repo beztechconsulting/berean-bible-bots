@@ -1,4 +1,4 @@
-# Session 8 — BBH 6 — Hebrew Prepositions
+# Session 8 — BBH 5 — Definite Article and Conjunction ו
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
 **Date:** Dec 10, 2026  
@@ -7,4 +7,4 @@
 ## Agenda
 
 1. Reading (TBD)
-1. [Lesson: BBH Chapter 6 — Hebrew Prepositions](/lessons/hebrew/ch6/)
+1. [Lesson: BBH Chapter 5 — Definite Article and Conjunction ו](/lessons/hebrew/ch5/)

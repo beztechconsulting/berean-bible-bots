@@ -1,13 +1,17 @@
 date: "2027-01-07"
-focus: "Review — BBH Ch4–7"
+focus: "BBH 7 — Hebrew Adjectives"
 instructor: "Preston Brown"
 
 agenda:
-  - title: "Review"
+  - title: "Reading (TBD)"
 
 sections:
-  - heading: "Review"
-    content: |
-      *Placeholder — review content to be added.*
+
+chapter: 7
+
+lesson:
+  name: "BBH Chapter 7 — Hebrew Adjectives"
+  url: "/lessons/hebrew/ch7/"
+
 
 notes: ""

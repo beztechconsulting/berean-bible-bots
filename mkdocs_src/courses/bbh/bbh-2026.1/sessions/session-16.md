@@ -1,4 +1,4 @@
-# Session 16 — BBH 12 — Introduction to Hebrew Verbs
+# Session 16 — Review — BBH Ch8–11
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
 **Date:** Apr 1, 2027  
@@ -6,5 +6,4 @@
 
 ## Agenda
 
-1. Reading (TBD)
-1. [Lesson: BBH Chapter 12 — Introduction to Hebrew Verbs](/lessons/hebrew/ch12/)
+1. [Review](session-16/review.md)

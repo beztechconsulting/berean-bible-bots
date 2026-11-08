@@ -1,4 +1,4 @@
-# Session 39 — BBH 31 — Piel Stem Weak Verbs
+# Session 39 — BBH 30 — Piel Stem Strong Verbs
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
 **Date:** Feb 17, 2028  
@@ -7,4 +7,4 @@
 ## Agenda
 
 1. Reading (TBD)
-1. [Lesson: BBH Chapter 31 — Piel Stem Weak Verbs](/lessons/hebrew/ch31/)
+1. [Lesson: BBH Chapter 30 — Piel Stem Strong Verbs](/lessons/hebrew/ch30/)

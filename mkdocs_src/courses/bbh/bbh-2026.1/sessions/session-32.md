@@ -1,4 +1,4 @@
-# Session 32 — BBH 25 — Niphal Stem Weak Verbs
+# Session 32 — BBH 24 — Niphal Stem Strong Verbs
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
 **Date:** Nov 11, 2027  
@@ -7,4 +7,4 @@
 ## Agenda
 
 1. Reading (TBD)
-1. [Lesson: BBH Chapter 25 — Niphal Stem Weak Verbs](/lessons/hebrew/ch25/)
+1. [Lesson: BBH Chapter 24 — Niphal Stem Strong Verbs](/lessons/hebrew/ch24/)

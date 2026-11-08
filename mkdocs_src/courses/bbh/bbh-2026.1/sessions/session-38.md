@@ -1,4 +1,4 @@
-# Session 38 — BBH 30 — Piel Stem Strong Verbs
+# Session 38 — Review — BBH Ch24–29
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
 **Date:** Feb 3, 2028  
@@ -6,5 +6,4 @@
 
 ## Agenda
 
-1. Reading (TBD)
-1. [Lesson: BBH Chapter 30 — Piel Stem Strong Verbs](/lessons/hebrew/ch30/)
+1. [Review](session-38/review.md)

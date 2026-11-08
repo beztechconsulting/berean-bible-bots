@@ -1,4 +1,4 @@
-# Session 22 — BBH 17 — Waw-Consecutive
+# Session 22 — Review — BBH Ch12–16
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
 **Date:** Jun 24, 2027  
@@ -6,5 +6,4 @@
 
 ## Agenda
 
-1. Reading (TBD)
-1. [Lesson: BBH Chapter 17 — Waw-Consecutive](/lessons/hebrew/ch17/)
+1. [Review](session-22/review.md)

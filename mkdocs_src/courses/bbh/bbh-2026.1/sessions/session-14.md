@@ -1,4 +1,4 @@
-# Session 14 — BBH 11 — Hebrew Numbers
+# Session 14 — BBH 10 — Hebrew Construct Chain
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
 **Date:** Mar 4, 2027  
@@ -7,4 +7,4 @@
 ## Agenda
 
 1. Reading (TBD)
-1. [Lesson: BBH Chapter 11 — Hebrew Numbers](/lessons/hebrew/ch11/)
+1. [Lesson: BBH Chapter 10 — Hebrew Construct Chain](/lessons/hebrew/ch10/)

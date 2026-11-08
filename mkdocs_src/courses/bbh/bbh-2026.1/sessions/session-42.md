@@ -1,4 +1,4 @@
-# Session 42 — BBH 34 — Hithpael Strong Verbs
+# Session 42 — BBH 33 — Pual Stem Weak Verbs
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
 **Date:** Mar 30, 2028  
@@ -7,4 +7,4 @@
 ## Agenda
 
 1. Reading (TBD)
-1. [Lesson: BBH Chapter 34 — Hithpael Strong Verbs](/lessons/hebrew/ch34/)
+1. [Lesson: BBH Chapter 33 — Pual Stem Weak Verbs](/lessons/hebrew/ch33/)

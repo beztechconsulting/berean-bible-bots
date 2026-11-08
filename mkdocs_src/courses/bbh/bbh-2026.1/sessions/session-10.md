@@ -1,4 +1,4 @@
-# Session 10 — Review — BBH Ch4–7
+# Session 10 — BBH 7 — Hebrew Adjectives
 
 **Course:** [Biblical Hebrew 1 — bbh-2026.1](../index.md)  
 **Date:** Jan 7, 2027  
@@ -6,4 +6,5 @@
 
 ## Agenda
 
-1. [Review](session-10/review.md)
+1. Reading (TBD)
+1. [Lesson: BBH Chapter 7 — Hebrew Adjectives](/lessons/hebrew/ch7/)
